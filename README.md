@@ -10,8 +10,8 @@ The scraper returns the following details:
   5. Is the Instant Book option available? (1 Yes, 0 No)
   6. Room type
   7. Property type
-  8. # of people that can be accommodated
-  9. # of beds
+  8. Number of people that can be accommodated
+  9. Number of beds
   10. Price
   11. Check in time
   12. Cancellation type
@@ -20,9 +20,9 @@ The scraper returns the following details:
   15. Cleaning fee
   16. Rating
   17. Review scores (Accuracy, Cleanliness, Communication, Value, Location)
-  18. # of bathrooms
-  19. # of bedrooms
-  20. # of travellers who've saved the listing
+  18. Number of bathrooms
+  19. Number of bedrooms
+  20. Number of travellers who've saved the listing
   
 How to run:
 
